@@ -85,6 +85,6 @@ python adas_dashboard.py
 This project represents an affordable deep-learning-based ADAS solution.
 - **Patent Application**: 202641002074 (Intellectual Property India)
 - **Author**: Pranav Reddy Mamidi, along with teammates and lecturers at Keshav Memorial Institute of Technology, who have helped me present this project.
-- 
+  
 ---
 *Empowering every vehicle with intelligent road assistance.*
